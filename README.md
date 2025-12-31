@@ -1,5 +1,4 @@
-
-<img width="1307" height="578" alt="image" src="https://github.com/user-attachments/assets/fd1b89bc-8ce1-4191-8278-4e605858df05" />
+<img width="1327" height="572" alt="image" src="https://github.com/user-attachments/assets/4ae11e3f-5bd5-4f66-bfa7-42ee3221e809" />
 
 
 🏸 Badminton Tournament Results Dashboard (MERN Stack)
