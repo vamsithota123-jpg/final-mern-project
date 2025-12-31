@@ -1,5 +1,12 @@
 <img width="1327" height="572" alt="image" src="https://github.com/user-attachments/assets/4ae11e3f-5bd5-4f66-bfa7-42ee3221e809" />
 
+### Live Demo (Netlify)
+The frontend of this application is deployed on Netlify for easy preview and testing.  
+You can access the live version here:  
+https://sage-rabanadas-0cfded.netlify.app/  
+The deployed app consumes data from the backend APIs running locally.
+
+
 
 🏸 Badminton Tournament Results Dashboard (MERN Stack)
 
